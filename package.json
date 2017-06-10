@@ -1,0 +1,16 @@
+{
+  "name": "parallel-js-experiments",
+  "version": "0.0.0",
+  "description": "Playing around with parallel-js",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Jonathan Taylor",
+  "license": "MIT",
+  "dependencies": {
+    "paralleljs": "^0.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0"
+  }
+}
