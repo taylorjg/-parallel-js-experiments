@@ -1,0 +1,1 @@
+import Parallel from 'paralleljs';
